@@ -13,6 +13,7 @@ This is a To-do list management web application having following features:
 * Spring MVC
 * Spring ORM (Hibernate)
 #### Frontend:
+* JSP
 * HTML
 * CSS
 * Javascript
