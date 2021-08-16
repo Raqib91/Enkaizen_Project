@@ -6,7 +6,7 @@ This is a To-do list management web application having following features:
 
 ## Technologies used are:
 #### Database:
-* MySQL
+* MySQL (Hosted on: freemysqlhosting.net)
 #### Backend:
 * Java
 * Maven
