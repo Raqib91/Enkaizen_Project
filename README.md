@@ -9,6 +9,7 @@ This is a To-do list management web application having following features:
 * MySQL
 #### Backend:
 * Java
+* Maven
 * Spring MVC
 * Spring ORM (Hibernate)
 #### Frontend:
@@ -17,3 +18,7 @@ This is a To-do list management web application having following features:
 * Javascript
 * JQuery
 * Bootstrap
+
+### Instructions to run the application:
+* Download the zip file extract it
+* Create a Maven project and import the EnkaizenTODO folder
