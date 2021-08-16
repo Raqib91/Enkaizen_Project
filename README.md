@@ -20,5 +20,7 @@ This is a To-do list management web application having following features:
 * Bootstrap
 
 ### Instructions to run the application:
-* Download the zip file extract it
+* Download the zip file and extract it
 * Create a Maven project and import the EnkaizenTODO folder
+* Add targeted runtime (Example: Tomcat)
+* Run the project as web application by starting the server (Root: http://localhost:8081/EnkaizenTODO/)
